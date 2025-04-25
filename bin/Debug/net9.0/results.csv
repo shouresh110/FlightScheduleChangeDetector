@@ -1,0 +1,5 @@
+FlightId,OriginCityId,DestinationCityId,DepartureTime,ArrivalTime,AirlineId,Status
+10,100,200,04/20/2024 08:00:00,04/20/2024 10:00:00,1,New
+10,100,200,04/20/2024 08:00:00,04/20/2024 10:00:00,1,Discontinued
+11,100,300,04/21/2024 09:00:00,04/21/2024 11:00:00,1,New
+11,100,300,04/21/2024 09:00:00,04/21/2024 11:00:00,1,Discontinued
