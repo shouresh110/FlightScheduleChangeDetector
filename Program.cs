@@ -14,6 +14,8 @@ internal class Program
 
         string csvFolderPath = Path.Combine(Directory.GetCurrentDirectory(), "DataFiles");
 
+        Console.WriteLine("Waiting to import data ...");
+
         var importer = new CsvImporter(dbContext);
         importer.ImportAll(csvFolderPath);
 
