@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FlightScheduleChangeDetector/FileContentIndex/f79449b4-f5dd-443a-8ce3-72dd51ada335.vsidx
+*.vsidx
+/bin/Debug/net9.0/FlightScheduleChangeDetector.pdb
+/bin/Debug/net9.0/FlightScheduleChangeDetector.exe
+/bin/Debug/net9.0/FlightScheduleChangeDetector.dll
+/DataFiles/subscriptions.csv
+/DataFiles/routes.csv
+/DataFiles/flights.csv
+/obj/Debug/net9.0/ref/FlightScheduleChangeDetector.dll
+/obj/Debug/net9.0/refint/FlightScheduleChangeDetector.dll
+*.json
+/obj/Debug/net9.0/FlightScheduleChangeDetector.pdb
+/obj/Debug/net9.0/FlightScheduleChangeDetector.dll
+/obj/Debug/net9.0/FlightScheduleChangeDetector.csproj.FileListAbsolute.txt
+/obj/Debug/net9.0/FlightScheduleChangeDetector.AssemblyInfoInputs.cache
+/obj/Debug/net9.0/FlightScheduleChangeDetector.AssemblyInfo.cs
+/obj/Debug/net9.0/apphost.exe
+/bin/Debug/net9.0/DataFiles/subscriptions.csv
+/bin/Debug/net9.0/DataFiles/routes.csv
+/bin/Debug/net9.0/DataFiles/flights.csv
